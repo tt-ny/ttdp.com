@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <div>Welcome to TTDP</div>
+    <div>
+      <h1>Here we go!</h1>
+    </div>
   )
 }
