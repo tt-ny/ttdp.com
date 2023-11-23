@@ -1,7 +1,12 @@
+'use client'
+import { ThemeProvider } from '@mui/material/styles';
+import theme from './theme';
+import Blog from '@/components/Blog';
+
 export default function Home() {
   return (
-    <div>
-      <h1>Here we go!</h1>
-    </div>
+    <ThemeProvider theme={theme}>
+      <Blog />
+    </ThemeProvider>
   )
 }
