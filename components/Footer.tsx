@@ -34,7 +34,7 @@ export default function Footer(props: FooterProps) {
 function Copyright() {
   return (
     <Typography variant="body2" color="text.secondary" align="center">
-      {'Copyright © TIANTONG '}
+      {'Copyright © TTDP '}
       {new Date().getFullYear()}
       {' '}
       <Link color="inherit" href="https://beian.miit.gov.cn/">

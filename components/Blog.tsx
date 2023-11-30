@@ -13,9 +13,7 @@ const sidebar = {
   description:
     'I share my thoughts about blockchain and crypto here.',
   archives: [
-    { title: 'March 2023', url: '#' },
-    { title: 'February 2023', url: '#' },
-    { title: 'January 2023', url: '#' },
+    { title: 'November 2023', url: '#' },
   ],
   social: [
     { name: 'Twitter', icon: TwitterIcon },
