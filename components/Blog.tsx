@@ -11,7 +11,7 @@ import Footer from './Footer';
 const sidebar = {
   title: 'My name is Tian Tong',
   description:
-    'I share my thoughts about blockchain and crypto here.',
+    'I share my learning and thoughts here.',
   archives: [
     { title: 'November 2023', url: '#' },
   ],
