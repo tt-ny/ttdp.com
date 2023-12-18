@@ -27,7 +27,7 @@ export default function Blog() {
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="TIAN TONG" />
+        <Header title="TIAN TONG DEVELOP" />
         <main>
           <Grid container spacing={5} sx={{ mt: 0 }}>
             <Sidebar
